@@ -10,9 +10,9 @@ applications:
   - services:
       - FleetCloudantDB
       - FleetIoTForAuto
-    name: iot-audi
+    name: iot-audi-2
     memory: 512M
-    host: iot-audi-mt
+    host: iot-audi-2-mt
 #    domain: stage1.mybluemix.net
     path: .
     instances: 1
